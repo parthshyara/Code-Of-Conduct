@@ -14,7 +14,7 @@ Members are expected to indulge in community activities as openly and inclusivel
 
 ### Unacceptable Behavior
 - Discriminatory, offensive or harassing behavior and speech.
-- Discrimination on the basis of gender identity, body size, gender expression, appearance, neurodiversity, sex, race, ethnicity, sexual orientation, disability, age, and religion.
+- Discrimination on the basis of gender identity, body size, gender expression, appearance, neurodiversity, sex, race, ethnicity, sexual orientation, disability, age and religion.
 - Inappropriate use of nudity like showing porn in public.
 - Unwelcome sexual attention or touching people uninvited.
 - Take inappropriate photographs or recording in contexts where people have a reasonable expectation of privacy.
